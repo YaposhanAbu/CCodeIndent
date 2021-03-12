@@ -4,7 +4,6 @@ typedef int bool;
 int getline(char*, int, FILE *);
 int endOfLine(char *);
 bool lastCharEnd(char *);
-//char *trimFrontSpace(char *);
 void noFrontSpacePrint(char *);
 bool lastLeftBigBrace(char *);
 bool firstRightBigBrace(char *);
