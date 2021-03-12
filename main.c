@@ -218,7 +218,7 @@ int main(int argc, char**argv){
 	while(getline(s, 1000, fp) > 0){
 		/*
 		首先得读取头单词
-		你懂的
+		你懂的 
 		*/
 		getFirstKeyWord(s, word);
 		end = endOfLine(s);
